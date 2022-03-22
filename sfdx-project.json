@@ -1,14 +1,10 @@
 {
   "packageDirectories": [
     {
-      "path": "force-app",
-      "default": true,
-      "package": "Wizard Package",
-      "versionNumber": "1.0.0.NEXT"
+      "path": "force-app"
     }
   ],
-  "name": "Wizard Package",
-  "namespace": "packageManagerT",
+  "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "52.0"
 }
