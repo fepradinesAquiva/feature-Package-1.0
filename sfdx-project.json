@@ -3,14 +3,9 @@
     {
       "path": "force-app",
       "default": true
-    },
-    {
-      "path": "deploy-sf",
-      "default": false
     }
   ],
-  "name": "AquivaDevOrg",
-  "namespace": "",
+  "namespace": "packageManagerT",
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "52.0"
 }
