@@ -2,7 +2,9 @@
   "packageDirectories": [
     {
       "path": "/force-app",
-      "default": true
+      "default": true,
+      "package": "Expense Manager - Util",
+      "versionNumber": "4.7.0.NEXT"
     }
   ],
   "name": "Wizard Package",
